@@ -62,6 +62,7 @@ jupyter notebook fish.ipynb
 
 ## Structure du projet
 
+```
 Regression-Scikit-learn/
 │
 ├── fish-market/
@@ -69,6 +70,7 @@ Regression-Scikit-learn/
 │
 ├── fish.ipynb            # Notebook principal (EDA + régression)
 └── README.md             # Documentation du projet
+```
 
 ---
 
@@ -79,6 +81,6 @@ Regression-Scikit-learn/
 
 Voici quelques visualisations de ce projet :
 
-<img width="660" height="569" alt="image" src="https://github.com/user-attachments/assets/bc7c247f-0021-4682-85a9-f19da73db73f" />
+<img width="850" height="557" alt="image" src="https://github.com/user-attachments/assets/4fb84932-94e9-407d-8076-83a315e27c2b" />
 
-<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/1f3f0c12-519d-4c11-adf2-cadda60d82e1" />
+<img width="1634" height="1470" alt="image" src="https://github.com/user-attachments/assets/6f3ea34b-e4d9-4940-b500-7c44a08eaaed" />
