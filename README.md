@@ -26,6 +26,18 @@ L’objectif principal de ce projet est de **comprendre et appliquer les concept
 
 ---
 
+## Quelques ressources
+
+Le full course ML que j'ai suivi :
+* https://youtu.be/hDKCxebp88A?si=6b536cGYnVD0vj9u
+
+Chaînes Youtube qui m'ont beaucoup aidé :
+* http://www.youtube.com/@statquest
+* http://www.youtube.com/@3blue1brown
+* http://www.youtube.com/@MachineLearnia
+
+---
+
 ## Description du projet
 
 Le notebook `fish.ipynb` contient :
